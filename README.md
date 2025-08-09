@@ -37,7 +37,7 @@ So yes, it’s overkill for a simple task. But hey, sometimes pointless complexi
 For Software:
 - Language: JavaScript (ES6), HTML, CSS
 
-Frameworks/Libraries: TensorFlow.js (MobileNet), Tesseract.js (OCR)
+Frameworks/Libraries: TensorFlow.js (MobileNet)
 
 Tools: Browser-based, uses localStorage for persistence
 
@@ -62,8 +62,6 @@ For Software:
 UI/UX: Simple dark theme, interactive image preview, click-to-measure interface
 
 AI/ML: Uses MobileNet model to identify the product in the photo
-
-OCR: Uses Tesseract.js to extract volume information from the image text
 
 Calculation logic: Calculates days remaining based on volume, users, daily uses, and usage per use
 
