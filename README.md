@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# Pumpocalypse Countdown 🎯
+# Pumpocalypse Countdown: Snap & Track 🎯
 ## Because the end is near for your bottle 
 
 
@@ -14,7 +14,7 @@
 - Member 2: Negha R - Sree Chitra Thirunal Collage of Engineering
 
 ### Project Description
-A fun and "useless" interactive web prototype to analyze bottle images, detect product volume using OCR, estimate usage duration, and keep history of analyzed bottles.
+Ever stared at your half-empty sanitizer or shampoo bottle and wondered, “How many days until this magical elixir runs out?” Well, wonder no more! Introducing Snap & Track — the absolutely indispensable, borderline ridiculous Bottle Analyzer prototype that uses fancy AI, OCR, and your wild clicking skills to estimate how many glorious days your bottle will last.
 
 ### The Problem (that doesn't exist)
 Let’s be honest: do we really need a fancy app to tell us how long our bottle of sanitizer or shampoo will last? Probably not. Most of us just eyeball the bottle, shrug, and hope it doesn’t run out when we need it most. Calculating exact usage days based on volume, number of people, and usage frequency might sound fancy, but in reality, who has the patience to measure every little thing?
