@@ -1,17 +1,17 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Pumpocalypse Countdown 🎯
+## Because the end is near for your bottle 
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: 404 Brain Not Found
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abhin Anoop - Sree Chitra Thirunal Collage of Engineering
+- Member 2: Negha R - Sree Chitra Thirunal Collage of Engineering
 
 ### Project Description
 [2-3 lines about what your project does]
